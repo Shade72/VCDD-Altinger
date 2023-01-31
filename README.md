@@ -1,2 +1,3 @@
 # VCDD-Altinger
-VCDD Altinger 2022/2023
+VCDD Assignment for Prof. Altinger
+Student Arthur Ribeiro s2210787024
